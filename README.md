@@ -13,7 +13,8 @@ Go find where was your last position in the garden and plant yourself in this id
 
 **Type :** Action 2D, Adventure, RPG, Strategy, First-Person, Roguelike
 
-**Platform :** Windows 
+**Platform :** Windows
+
 **Technologie :** Unreal Engine 
 
 **Global Game Jam :** [Click here.](https://globalgamejam.org/2023/games/beetrootventure-0)
