@@ -8,9 +8,10 @@ Go find where was your last position in the garden and plant yourself in this id
 
 
 
+
 ![Affiche](https://github.com/igneefleur/GGJ_2023/blob/main/Content/Assets/affiche.png)
 
-Type : Action 2D, Adventure, RPG, Strategy, First-Person, Roguelike
+**Type :** Action 2D, Adventure, RPG, Strategy, First-Person, Roguelike
 
 **Platform :** Windows 
 **Technologie :** Unreal Engine 
